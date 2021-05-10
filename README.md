@@ -1,11 +1,11 @@
 ## Hello wanderer, Emily here!✨
 ### About Me
-I'm a 2nd-year (rising 3rd-year) undergraduate honors student working towards a BS in Cybersecurity at Northeastern University, slated to complete a concentration in Cyber Operations, and potentially working towards an MS in Cybersecurity.
+I'm a 2nd-year (rising 3rd-year) undergraduate honors student working towards a BS in Cybersecurity at Northeastern University, slated to complete a concentration in Cyber Operations, and potentially work towards an MS in Cybersecurity.
 
 In my free time, I enjoy running NU Security Club, Northeastern University's Cybersecurity interest group, and Northeastern's chapter of Women in CyberSeurity (WiCyS) as VP, bringing together the small security community here at Northeastern :)
 
 - :green_heart: My pronouns are she/her/hers
-- :speech_balloon: You can reach me at **gao.em@northeastern.edu** and [my LinkedIn](https://www.linkedin.com/in/emily-gao-23bb731a0/)
+- :speech_balloon: You can reach me at **gao.em@northeastern.edu** and [LinkedIn](https://www.linkedin.com/in/emily-gao-23bb731a0/)
 - :email: Contact me for temporary access to my Network Security repository!
   - Includes NIDS, DoS-Resistant Password Manager, WAF, IP Spoofing, Clap Server, and DNS projects
 - :computer: Ask me about my mechanical keyboard :eyes:
