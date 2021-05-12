@@ -18,6 +18,6 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 - [ ] Verilog
 ### This Summer I'll Be...
 - :space_invader: A Cyber Operation Center Intern working at IronNet Cybersecurity
-  - I'll be working on threat hunting and analysis!
+  - I'll be working on threat hunting and analysis
 - :mag: A Cybersecurity Research Assistant at Northeastern University
   - I'll be working on a National Science Foundation (NSF) Secure and Trustworthy Cyberspace (SaTC) program-funded project on vulnerability disclosure and bug bounty programs
