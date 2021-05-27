@@ -14,7 +14,7 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 ### This Summer I Want to Teach Myself...
 - [ ] AWS
 - [ ] The MITRE ATT&CK Framework
-- [ ] Burpesuite
+- [ ] Burp Suite
 - [ ] Kali Linux
 - [ ] Dynamic & Static code analysis
 - [ ] The MIPS assembly language
