@@ -14,6 +14,8 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 ### This Summer I Want to Teach Myself...
 - [ ] The MITRE ATT&CK Framework
 - [ ] Spark
+- [x] SQL
+- [ ] Go
 - [ ] AWS
 - [ ] Splunk
 - [ ] Suricata
