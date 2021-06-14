@@ -12,7 +12,7 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 - :computer: Ask me about my mechanical keyboard :eyes:
 - :star2: Fun fact: I enjoy learning to sing songs of different languages I can't speak, my current favorites being the entire [Sin Miedo](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd?si=JmPEGBzBSKyKBZcI8wkhcQ) album by Kali Uchis and [Solo](https://open.spotify.com/track/1XUivd12LBHFanCqt0buaz?si=fh0vl_xxTvSOQARK2xReig) by Lous and the Yakuza
 ### This Summer I Want to Teach Myself...
-- [ ] The MITRE ATT&CK Framework
+- [x] The MITRE ATT&CK Framework
 - [ ] Spark
 - [x] SQL
 - [ ] Go
