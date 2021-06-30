@@ -26,7 +26,10 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 - [ ] The MIPS assembly language
 - [ ] Verilog
 ### This Summer I'll Be...
-- :space_invader: A Cyber Operation Center Intern working at IronNet Cybersecurity
-  - I'll be working on research, threat hunting and analysis
+- :space_invader: A Cyber Operation Center Intern at IronNet Cybersecurity
+  - I'll be working within the CyOC learning about threat research, hunting, and analysis
 - :mag: A Cybersecurity Research Assistant at Northeastern University
-  - I'll be working on a National Science Foundation (NSF) Secure and Trustworthy Cyberspace (SaTC) program-funded project on vulnerability disclosure and bug bounty programs
+  - I'll be working on a National Science Foundation (NSF) Secure and Trustworthy Cyberspace (SaTC) program-funded project on vulnerability disclosure and bug bounty programs.
+### This Fall I'll Be...
+- A Security Software Developer Co-op at Nokia
+  - :sparkler: I'll be working within the Common Software Foundation (CSF) supporting security product development and integration!
