@@ -11,7 +11,7 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
   - I'm currently working on regaining access to and uploading my code for 2 buffer overflow exploits, one local and one remote shell-type.
   - I'm currently working on migrating my Computer Systems projects.
 - :computer: Ask me about my mechanical keyboard :eyes:
-- :star2: Fun fact: I enjoy learning to sing songs of different languages I can't speak, my current favorites being the entire [Sin Miedo](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd?si=JmPEGBzBSKyKBZcI8wkhcQ) album by Kali Uchis and [Solo](https://open.spotify.com/track/1XUivd12LBHFanCqt0buaz?si=fh0vl_xxTvSOQARK2xReig) by Lous and the Yakuza. The song I'm currently learning is [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i?si=3e8f1998242844ec) by Lido Pimienta
+- :star2: Fun fact: I enjoy learning to sing songs of different languages I can't speak, my current favorites being the entire [Sin Miedo](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd?si=JmPEGBzBSKyKBZcI8wkhcQ) album by Kali Uchis and [Solo](https://open.spotify.com/track/1XUivd12LBHFanCqt0buaz?si=fh0vl_xxTvSOQARK2xReig) by Lous and the Yakuza. The song I'm currently learning is [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i?si=3e8f1998242844ec) by Lido Pimienta.
 ### This Summer I Want to Teach Myself...
 - [x] The MITRE ATT&CK Framework
 - [ ] Spark
