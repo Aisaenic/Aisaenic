@@ -20,8 +20,8 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 - [x] AWS
 - [x] Splunk
 - [x] Suricata
-- [ ] Burp Suite
-- [ ] Kali Linux
+- [x] Burp Suite
+- [x] Kali Linux
 - [ ] Dynamic & Static code analysis
 - [ ] The MIPS assembly language
 - [ ] Verilog
@@ -31,5 +31,5 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 - :mag: A Cybersecurity Research Assistant at Northeastern University
   - I'll be working on a National Science Foundation (NSF) Secure and Trustworthy Cyberspace (SaTC) program-funded project on vulnerability disclosure and bug bounty programs.
 ### This Fall I'll Be...
-- A Security Software Developer Co-op at Nokia
-  - :sparkler: I'll be working within the Common Software Foundation (CSF) supporting security product development and integration!
+- :sparkler: A Security Software Developer Co-op at Nokia
+  - I'll be working within the Common Software Foundation (CSF) supporting security product development and integration!
