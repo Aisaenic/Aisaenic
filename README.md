@@ -14,7 +14,7 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 - :star2: Fun fact: I enjoy learning to sing songs of different languages I can't speak, my current favorites being the entire [Sin Miedo](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd?si=JmPEGBzBSKyKBZcI8wkhcQ) album by Kali Uchis and [Solo](https://open.spotify.com/track/1XUivd12LBHFanCqt0buaz?si=fh0vl_xxTvSOQARK2xReig) by Lous and the Yakuza. The song I'm currently learning is [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i?si=3e8f1998242844ec) by Lido Pimienta.
 ### This Summer I Want to Learn More About ...
 - [x] The MITRE ATT&CK Framework
-- [ ] Spark
+- [x] Spark
 - [x] SQL/PostgreSQL
 - [ ] Go
 - [x] AWS
