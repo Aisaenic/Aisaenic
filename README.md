@@ -25,6 +25,13 @@ In my free time, I enjoy running NU Security Club, Northeastern University's Cyb
 - [ ] Dynamic & Static code analysis
 - [ ] The MIPS assembly language
 - [ ] Verilog
+
+### This Fall I Want to Learn More About ...
+- [x] Kubernetes
+- [x] Helm
+- [ ] Jenkins
+- [ ] Gerrit
+ 
 ### This Summer I was...
 - :space_invader: A Cyber Operation Center Intern at IronNet Cybersecurity
   - I worked within the CyOC learning about threat research, hunting, and analysis
