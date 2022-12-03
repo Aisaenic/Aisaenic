@@ -1,6 +1,6 @@
 ## Hello wanderer, Emily here!✨
 ### About Me
-I'm a rising 4rd-year undergraduate honors student working towards a BS in Cybersecurity at Northeastern University, slated to complete a concentration in Cyber Operations, and potentially work towards an MS in Cybersecurity.
+I'm a 4rd-year undergraduate honors student working towards a BS in Cybersecurity at Northeastern University, slated to complete a concentration in Cyber Operations, and potentially work towards an MS in Cybersecurity.
 
 In my free time, I enjoy running NU Security Club, Northeastern University's Cybersecurity interest group, and Northeastern's chapter of Women in CyberSeurity (WiCyS) as VP, bringing together the small security community here at Northeastern :)
 
